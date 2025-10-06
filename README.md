@@ -11,6 +11,7 @@
 ## Executive Summary
 
 This comprehensive Power BI dashboard provides real-time insights into project management performance across a portfolio of 53 projects and 163 tasks. The dashboard monitors critical metrics including budget utilization (83.4%), task completion rates (75.0%), and financial performance with total costs of $8,733K against a budget of $10,469K. The solution delivers actionable insights across four key dimensions: executive KPIs, cost analysis, project timelines, and manager performance, enabling data-driven decision-making for stakeholders at all levels of the organization.
+![Banner](screenshots/Project%20Timeline.png)
 
 ---
 
