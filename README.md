@@ -62,10 +62,10 @@ power-bi-projects-dashboard/
 ├── data/
 │   └── Project Management Dataset.xlsx
 ├── screenshots/
-│   ├── dashboard_overview.png
-│   ├── cost_analysis.png
-│   ├── timeline_view.png
-│   └── manager_performance.png
+│   ├── Project_Board.png
+│   ├── Cost_analysis.png
+│   ├── Project_timeline.png
+│   └── Project_manager.png
 └── docs/
     └── Projects Performance Dashboard.pdf
 ```
