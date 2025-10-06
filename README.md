@@ -10,6 +10,8 @@ A comprehensive Power BI dashboard for monitoring and analyzing project performa
 
 This Power BI dashboard provides real-time insights into project management metrics, enabling stakeholders to make data-driven decisions. It tracks 53 projects with 163 tasks, monitoring costs, budgets, timelines, and team performance.
 
+- **Dashboard Link**: [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmNkNWJmYTQtMWFjZS00MTkzLWFhMjItZTc4NzBmMWQ0NDQ3IiwidCI6Ijg0ZDI3MGQyLTBiYzUtNGQ1NS1iZjBhLTI3NGYxYTU3NmNiZiJ9&pageName=ba8417c84e1328159a55)
+
 ### Key Metrics at a Glance
 - **Total Projects:** 53
 - **Total Tasks:** 163
@@ -138,7 +140,7 @@ power-bi-projects-dashboard/
 ## 📧 Contact & Support
 
 - **Project Maintainer**: [OUTGOUGUA MUSTAPHA]
-- **LinkedIn**: [GitHub Issues](https://www.linkedin.com/in/mustapha-outgougua/)
+- **LinkedIn**: [Profile](https://www.linkedin.com/in/mustapha-outgougua/)
 - **Issues**: [GitHub Issues](https://github.com/outgouguamustapha/Projects-Performance-Dashboard/issues)
 
 ## 📄 License
